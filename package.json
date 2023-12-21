@@ -1,0 +1,28 @@
+{
+  "name": "worker-thread",
+  "version": "1.0.0",
+  "description": "Multithreading with \"worker threads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshkumar2491/worker-thread-node.git"
+  },
+  "keywords": [
+    "Multithreading",
+    "with",
+    "\"worker",
+    "threads\""
+  ],
+  "author": "Yogesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshkumar2491/worker-thread-node/issues"
+  },
+  "homepage": "https://github.com/yogeshkumar2491/worker-thread-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
